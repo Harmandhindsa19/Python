@@ -1,0 +1,10 @@
+git config --globaluser.name"harman kaur"
+git config --golbaluser.email"dhindsaharman03@gmail.com"
+git init
+git add assignment1.py
+git add .
+git status
+git commit-m"assignment1 is done"
+git log
+git remote add origin
+git push origin master
