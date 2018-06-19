@@ -1,0 +1,4 @@
+x=input("enter the value")
+x=sorted(x)
+x=sorted(numbers, reverse=1))
+print(x)

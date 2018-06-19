@@ -1,0 +1,9 @@
+a=[5,7,8,9,2]
+a.sort()
+print(a)
+b=[2,0,9,6,7]
+b.sort()
+print(b)
+c=a+b
+c.sort()
+print(c)
