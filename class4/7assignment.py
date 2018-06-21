@@ -1,0 +1,14 @@
+q="mississippi"
+print(q)
+a=list(q)
+print(a)
+k=a.count("m")
+print(k)
+q=a.count("i")
+print(q)
+r=a.count("s")
+print(r)
+s=a.count("p")
+print(s)
+dic={"m":k,"i":q,"s":r,"p":s}
+print(dic)
